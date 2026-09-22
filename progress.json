@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:07:03.293Z",
+  "generated_at": "2026-09-22T19:07:16.906Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -103,6 +103,19 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-09-22T18:07:02.586Z",
       "last_pushed_at": "2026-09-22T18:07:02.586Z"
+    },
+    "problem:116": {
+      "kind": "problem",
+      "id": "116",
+      "title": "Derivative of a Polynomial",
+      "difficulty": "easy",
+      "category": "Calculus",
+      "url": "https://www.deep-ml.com/problems/116",
+      "path": "problems/0116-derivative-of-a-polynomial",
+      "first_solved_at": "2026-09-22T19:07:16.230Z",
+      "last_pushed_at": "2026-09-22T19:07:16.230Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
